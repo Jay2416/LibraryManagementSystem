@@ -6,7 +6,7 @@ This project's objective is to develop a MIS system with a user friendly GUI int
 This software project also aims to improve the existing record keeping system, which will assist managers in retrieving the most recent information at the appropriate time and in the appropriate manner.
 
 
-## Tech Stack
+## Tech Stack 👨‍💻
 
 - Front-End: Python (tkinter for GUI) 🐍
 - Back-End: MySQL 📑
